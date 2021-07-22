@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# The Game of Life UI using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This "project" creates an interactive UI for Conway's Game of Life automaton.
+Click on individual cells to mark them as alive, then click on 'Start' to start the simulation.
+Click on 'Stop' to stop the simulation.
 
 ## Available Scripts
 
